@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1087472829242",
+    "project_id": "pertemuan6-89728",
+    "storage_bucket": "pertemuan6-89728.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087472829242:android:630ce054bb3a81c7be0603",
+        "android_client_info": {
+          "package_name": "com.example.labpemmobp6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087472829242-bgd32eb62pk3q893skv86a59sneq1m40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.labpemmobp6",
+            "certificate_hash": "fe0f53224bd0769ea022157640deda20fc85ff97"
+          }
+        },
+        {
+          "client_id": "1087472829242-rd2iv4jol71r9ckhojb9kvtcvi36tj9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.labpemmobp6",
+            "certificate_hash": "1d8f7fb20eae9cb07aec197c4fe8119f4a8617aa"
+          }
+        },
+        {
+          "client_id": "1087472829242-t9umlckghja1miihoajc1mmgp6rubf81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_kgwrlFZTR6ssf_mDNEg8tRLD5L1t4bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087472829242-t9umlckghja1miihoajc1mmgp6rubf81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
